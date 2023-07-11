@@ -1,0 +1,2 @@
+# Evaluation_university_lecturers
+基于spring boot的高校讲师测评系统
